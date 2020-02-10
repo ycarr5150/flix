@@ -2,8 +2,6 @@
 
 Submitted by: **Yazmin Carrillo**
 
-Time spent: **1** hour spent in total
-
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
@@ -24,8 +22,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/PHDiEd4eyB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [RecordIt](https://recordit.co/).
-
---
 
 ## Flix Part 1
 
